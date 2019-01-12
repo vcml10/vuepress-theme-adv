@@ -1,19 +1,19 @@
 {
-  "name": "vuepress-theme-valle",
-  "version": "0.1.5",
-  "description": "Simple blog theme for VuePress",
-  "author": "Joonas Yliaho",
+  "name": "vuepress-theme-adv",
+  "version": "0.0.1",
+  "description": "Simple theme for VuePress",
+  "author": "Vitor Carvalho",
   "license": "MIT",
   "scripts": {
     "precommit": "lint-staged"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/yliaho/vuepress-theme-valle.git"
+    "url": "https://github.com/vcml10/vuepress-theme-adv.git"
   },
   "keywords": ["static-site", "blog", "vue", "vuepress"],
   "bugs": {
-    "url": "https://github.com/yliaho/vuepress-theme-valle/issues"
+    "url": "https://github.com/vcml10/vuepress-theme-adv/issues"
   },
   "lint-staged": {
     "*.{js,json,css,md,vue}": ["node_modules/.bin/prettier --write", "git add"]

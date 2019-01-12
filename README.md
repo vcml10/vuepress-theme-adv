@@ -1,4 +1,4 @@
-# vuepress-theme-valle
+# vuepress-theme-adv
 
 > Simple [VuePress](https://github.com/vuejs/vuepress) theme with blogging support.
 
@@ -43,3 +43,5 @@ module.exports = {
   }
 }
 ```
+
+Project based in [vuepress theme from yliaho](https://github.com/yliaho/vuepress-theme-valle).
